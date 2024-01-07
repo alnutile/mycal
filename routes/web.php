@@ -15,6 +15,16 @@ use Inertia\Inertia;
 |
 */
 
+
+Route::get("/terms", function() {
+    return "More coming soon";
+});
+
+Route::get("/privacy", function() {
+    return "More coming soon";
+});
+
+
 Route::get('/', function () {
     return Inertia::render('Welcome', [
         'canLogin' => Route::has('login'),
