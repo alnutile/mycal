@@ -1,0 +1,71 @@
+{
+    "googleEvent": {
+        "anyoneCanAddSelf": null,
+        "attachments": null,
+        "attendees": null,
+        "attendeesOmitted": null,
+        "colorId": null,
+        "conferenceData": null,
+        "created": "2021-09-19T14:17:28.000Z",
+        "creator": {
+            "displayName": null,
+            "email": "alfrednutile@gmail.com",
+            "id": null,
+            "self": true
+        },
+        "description": "Unearth week updates and cal updates<br \/>Look at my calendar<br \/>Work stuff",
+        "end": {
+            "date": null,
+            "dateTime": "2024-01-07T08:00:00-05:00",
+            "timeZone": "America\/Los_Angeles"
+        },
+        "endTimeUnspecified": null,
+        "etag": "\"3402218007960000\"",
+        "eventType": "default",
+        "extendedProperties": null,
+        "focusTimeProperties": null,
+        "gadget": null,
+        "guestsCanInviteOthers": null,
+        "guestsCanModify": null,
+        "guestsCanSeeOtherGuests": null,
+        "hangoutLink": null,
+        "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzg4cjRhZ3E0NjExMzRiOW04NHJrNGI5azhjcWs0YjlvNzBwamliOWs4a29rNGNwaDhnbzM2ZHBqNjhfMjAyNDAxMDdUMTEwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+        "iCalUID": "B6ECD0B2-6A7B-4C5B-8839-4E1B31D03732",
+        "id": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68_20240107T110000Z",
+        "kind": "calendar#event",
+        "location": null,
+        "locked": null,
+        "organizer": {
+            "displayName": null,
+            "email": "alfrednutile@gmail.com",
+            "id": null,
+            "self": true
+        },
+        "originalStartTime": {
+            "date": null,
+            "dateTime": "2024-01-07T06:00:00-05:00",
+            "timeZone": "America\/Los_Angeles"
+        },
+        "outOfOfficeProperties": null,
+        "privateCopy": null,
+        "recurrence": null,
+        "recurringEventId": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68",
+        "reminders": {
+            "overrides": null,
+            "useDefault": true
+        },
+        "sequence": 1,
+        "source": null,
+        "start": {
+            "date": null,
+            "dateTime": "2024-01-07T06:00:00-05:00",
+            "timeZone": "America\/Los_Angeles"
+        },
+        "status": "confirmed",
+        "summary": "\ud83d\udcc9 Weekly planning work including any emails to people and scheduling",
+        "transparency": null,
+        "updated": "2023-11-27T18:16:43.980Z",
+        "visibility": null,
+        "workingLocationProperties": null
+    }
+}

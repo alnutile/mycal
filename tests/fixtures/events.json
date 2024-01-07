@@ -1,0 +1,2266 @@
+[
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2021-09-19T14:17:28.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Unearth week updates and cal updates<br \/>Look at my calendar<br \/>Work stuff",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-07T08:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218007960000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzg4cjRhZ3E0NjExMzRiOW04NHJrNGI5azhjcWs0YjlvNzBwamliOWs4a29rNGNwaDhnbzM2ZHBqNjhfMjAyNDAxMDdUMTEwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "B6ECD0B2-6A7B-4C5B-8839-4E1B31D03732",
+            "id": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68_20240107T110000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-07T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-07T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83d\udcc9 Weekly planning work including any emails to people and scheduling",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:43.980Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-05-14T09:17:24.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-07T11:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218009738000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZsMWplaGhsNnAxM2liOW04a3EzZ2I5azY5MWplYmEyNzUzM2diYTQ4OHBqaWQ5aDZsMGo4YzloNmNfMjAyNDAxMDdUMTQzMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "5C7F56B9-6E48-42C7-B9F8-DB39515A4113",
+            "id": "_6l1jehhl6p13ib9m8kq3gb9k691jeba27533gba488pjid9h6l0j8c9h6c_20240107T143000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-07T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6l1jehhl6p13ib9m8kq3gb9k691jeba27533gba488pjid9h6l0j8c9h6c",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-07T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Budget and Invoice Review",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:44.869Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-10-03T01:16:45.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-07T10:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218009120000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzhvcjQ0ZGEzNzBxNDRiOWw2MHA0YWI5azZvcjMyYmEyODhyajBiOWs2a29qZ2gxcDg5MGoyYzI1NjBfMjAyNDAxMDdUMTQzMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "F6B5C84B-502E-4661-BB70-4518D9BA10E0",
+            "id": "_8or44da370q44b9l60p4ab9k6or32ba288rj0b9k6kojgh1p890j2c2560_20240107T143000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-07T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_8or44da370q44b9l60p4ab9k6or32ba288rj0b9k6kojgh1p890j2c2560",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-07T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "cash out and fuel",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:44.560Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-06-10T19:07:05.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": "2024-01-09",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402055418098000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZvb2tjY3BvNm9xM2FiOWo3NTJqMGI5azZnc2oyYjlwODhwMzJiOW02b3MzMmhhNDc0bzQ2YzIzODhfMjAyNDAxMDggYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "61F38645-39E0-4491-9B21-6681ED90C0CB",
+            "id": "_6ookccpo6oq3ab9j752j0b9k6gsj2b9p88p32b9m6os32ha474o46c2388_20240108",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": "2024-01-08",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6ookccpo6oq3ab9j752j0b9k6gsj2b9p88p32b9m6os32ha474o46c2388",
+            "reminders": {
+                "overrides": null,
+                "useDefault": false
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": "2024-01-08",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "status": "confirmed",
+            "summary": "Zeke here for week",
+            "transparency": "transparent",
+            "updated": "2023-11-26T19:41:49.049Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": "Tim Vickey",
+                    "email": "tim@nextchapters.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "needsAction",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-11-21T14:53:19.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-08T11:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402477233860000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzhvc2o0YzFwNnNxa2NiOW04OTFqOGI5azZvczQ0YmExNzEzM2liOWk3NHNqMGNwbjZsMzMwZHBvOGNfMjAyNDAxMDhUMTYwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "F920975F-6BC4-468B-A8F9-2990375F078C",
+            "id": "_8osj4c1p6sqkcb9m891j8b9k6os44ba17133ib9i74sj0cpn6l330dpo8c_20240108T160000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-08T11:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_8osj4c1p6sqkcb9m891j8b9k6os44ba17133ib9i74sj0cpn6l330dpo8c",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-08T11:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Tim and Al Standing Meeting",
+            "transparency": null,
+            "updated": "2023-11-29T06:16:56.930Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-08T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMDhUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240108T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-08T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-08T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "mattmitchell@unearthcampaigns.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-29T22:15:54.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Event Name: 30 Minute Meeting\n\nConsulting, or just chat tech\n\nLocation: This is a Zoom web conference.\n\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps:\/\/us06web.zoom.us\/j\/83955144635?pwd=1Mbcpgy37GRadYoA5jeNRsaaGJDnwZ.1\n\nPassword: 526106\n\nOne tap mobile:\n+1 305 224 1968,,83955144635#\n+1 309 205 3325,,83955144635#\n\nYou can also dial in using your phone.\nUS: +1 305 224 1968, +1 309 205 3325, +1 312 626 6799, +1 646 876 9923, +1 646 931 3860, +1 301 715 8592, +1 253 215 8782, +1 346 248 7799, +1 360 209 5623, +1 386 347 5053, +1 507 473 4847, +1 564 217 2000, +1 669 444 9171, +1 669 900 6833, +16892781000, +1 719 359 4580, +1 253 205 0468\nMeeting ID: 839-551-44635\n\nFind your local number: https:\/\/us06web.zoom.us\/u\/kigxaJgvi\n\nPlease share anything that will help prepare for our meeting.: Trello check-in - Atlas priorities https:\/\/trello.com\/b\/aJFdTcLq\/unearth\n\nNeed to make changes to this event?\nCancel: https:\/\/calendly.com\/cancellations\/2f11c9b8-f6bd-47a9-a842-90ca477d39b3\nReschedule: https:\/\/calendly.com\/reschedulings\/2f11c9b8-f6bd-47a9-a842-90ca477d39b3\n\nPowered by Calendly.com\n",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-08T13:45:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3407776993530000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=ZmYxa25xYnNic2syYTJmZ2VwcjE3ZGE2M2cgYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "ff1knqbsbsk2a2fgepr17da63g@google.com",
+            "id": "ff1knqbsbsk2a2fgepr17da63g",
+            "kind": "calendar#event",
+            "location": "https:\/\/us06web.zoom.us\/j\/83955144635?pwd=1Mbcpgy37GRadYoA5jeNRsaaGJDnwZ.1",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": null,
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": null,
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-08T13:30:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Matthew Mitchell and Alfred Nutile",
+            "transparency": null,
+            "updated": "2023-12-29T22:21:36.765Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "goleary@ppeng.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2024-01-05T20:30:02.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Event Name: 30 Minute Meeting\n\nConsulting, or just chat tech\n\nLocation: This is a Zoom web conference.\n\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps:\/\/us06web.zoom.us\/j\/81163328731?pwd=1CLfYBBqEF8elYfvb9ctxv9E3STuKC.1\n\nPassword: 572771\n\nOne tap mobile:\n+1 646 931 3860,,81163328731#\n+1 301 715 8592,,81163328731#\n\nYou can also dial in using your phone.\nUS: +1 646 931 3860, +1 301 715 8592, +1 305 224 1968, +1 309 205 3325, +1 312 626 6799, +1 646 876 9923, +1 719 359 4580, +1 253 205 0468, +1 253 215 8782, +1 346 248 7799, +1 360 209 5623, +1 386 347 5053, +1 507 473 4847, +1 564 217 2000, +1 669 444 9171, +1 669 900 6833, +16892781000\nMeeting ID: 811-633-28731\n\nFind your local number: https:\/\/us06web.zoom.us\/u\/keJ4C9KWUd\n\nNeed to make changes to this event?\nCancel: https:\/\/calendly.com\/cancellations\/13ae2d69-6438-4e22-a226-7c8cd601fdad\nReschedule: https:\/\/calendly.com\/reschedulings\/13ae2d69-6438-4e22-a226-7c8cd601fdad\n\nPowered by Calendly.com\n",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-08T14:45:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408973329094000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=NWhpOWJuaWQ3ZGc5bXBrY2draWhnZnV1ZmcgYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "5hi9bnid7dg9mpkcgkihgfuufg@google.com",
+            "id": "5hi9bnid7dg9mpkcgkihgfuufg",
+            "kind": "calendar#event",
+            "location": "https:\/\/us06web.zoom.us\/j\/81163328731?pwd=1CLfYBBqEF8elYfvb9ctxv9E3STuKC.1",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": null,
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": null,
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-08T14:30:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Gavin O'Leary and Alfred Nutile",
+            "transparency": null,
+            "updated": "2024-01-05T20:31:04.547Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "jon@unearthcampaigns.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "needsAction",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2024-01-05T01:26:53.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Event Name: 30 Minute Meeting\n\nConsulting, or just chat tech\n\nLocation: This is a Zoom web conference.\n\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps:\/\/us06web.zoom.us\/j\/81407064491?pwd=aEX7waWHgkJvNaKQU1mnpwbjdtuzYm.1\n\nPassword: 079937\n\nOne tap mobile:\n+1 305 224 1968,,81407064491#\n+1 309 205 3325,,81407064491#\n\nYou can also dial in using your phone.\nUS: +1 305 224 1968, +1 309 205 3325, +1 312 626 6799, +1 646 876 9923, +1 646 931 3860, +1 301 715 8592, +1 564 217 2000, +1 669 444 9171, +1 669 900 6833, +16892781000, +1 719 359 4580, +1 253 205 0468, +1 253 215 8782, +1 346 248 7799, +1 360 209 5623, +1 386 347 5053, +1 507 473 4847\nMeeting ID: 814-070-64491\n\nFind your local number: https:\/\/us06web.zoom.us\/u\/kerue7UdyA\n\nPlease share anything that will help prepare for our meeting.: next review of Portal development\n\nNeed to make changes to this event?\nCancel: https:\/\/calendly.com\/cancellations\/ccceb755-d525-4386-8af2-9f4ef56b0e19\nReschedule: https:\/\/calendly.com\/reschedulings\/ccceb755-d525-4386-8af2-9f4ef56b0e19\n\nPowered by Calendly.com\n",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-08T15:15:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408836026182000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=ZjJqbzU5cjNjdDJvdHNhaGV0Z3B1YmgxNW8gYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "f2jo59r3ct2otsahetgpubh15o@google.com",
+            "id": "f2jo59r3ct2otsahetgpubh15o",
+            "kind": "calendar#event",
+            "location": "https:\/\/us06web.zoom.us\/j\/81407064491?pwd=aEX7waWHgkJvNaKQU1mnpwbjdtuzYm.1",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": null,
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": null,
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-08T15:00:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Jonathan Korn and Alfred Nutile",
+            "transparency": null,
+            "updated": "2024-01-05T01:26:53.091Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-11-28T19:13:40.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-09T08:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402344425102000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzY0cjMyZDlvNzBwamFiOWs2OTIzOGI5azZ0MGthYmEyNmNvajZiOWc2NHFqYWRhNThrcGtjZHE1ODRfMjAyNDAxMDlUMTIwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "16158835-42D4-47AE-B313-01555EE3F7EA",
+            "id": "_64r32d9o70pjab9k69238b9k6t0kaba26coj6b9g64qjada58kpkcdq584_20240109T120000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-09T07:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_64r32d9o70pjab9k69238b9k6t0kaba26coj6b9g64qjada58kpkcdq584",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 2,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-09T07:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83d\ude9b Trash",
+            "transparency": "transparent",
+            "updated": "2023-11-28T11:50:12.551Z",
+            "visibility": "public",
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2024-01-06T13:32:11.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-09T19:00:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3409095863384000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=X2NsaGoyb2IyNjlnbTJvOWk2a3MzZXAxaDZkajY2cGI1Y3BoNmNkOWk2a3JqMmViNDZwaGo0b2I2NjhwMzRkcGcgYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "ec1ab2aaa2587d13fceefbf525719d6c2af22270",
+            "id": "_clhj2ob269gm2o9i6ks3ep1h6dj66pb5cph6cd9i6krj2eb46phj4ob668p34dpg",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": null,
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": null,
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-09T08:00:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Emma Airport",
+            "transparency": null,
+            "updated": "2024-01-06T13:32:11.692Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-09T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMDlUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240109T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-09T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-09T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-10T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTBUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240110T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-10T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-10T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-11T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTFUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240111T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-11T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-11T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-12T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTJUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240112T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-12T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-12T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-01-12T12:50:08.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "make sure to get 10 each 2 weeks<br \/><br \/>",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-13T07:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3403168489080000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZwMmplZGhqNjBwM2FiYTQ4b3M0YWI5azcwcDRjYjlvNjRyamNiOWk3MTBrYWNwbTZsMGo2aDltOG9fMjAyNDAxMTNUMTExNTAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "6E763025-DF8E-482F-8176-28AE365A3E6F",
+            "id": "_6p2jedhj60p3aba48os4ab9k70p4cb9o64rjcb9i710kacpm6l0j6h9m8o_20240113T111500Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-13T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6p2jedhj60p3aba48os4ab9k70p4cb9o64rjcb9i710kacpm6l0j6h9m8o",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-13T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Unearth Hours",
+            "transparency": null,
+            "updated": "2023-12-03T06:17:24.540Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2021-09-19T14:17:28.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Unearth week updates and cal updates<br \/>Look at my calendar<br \/>Work stuff",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-14T08:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218007960000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzg4cjRhZ3E0NjExMzRiOW04NHJrNGI5azhjcWs0YjlvNzBwamliOWs4a29rNGNwaDhnbzM2ZHBqNjhfMjAyNDAxMTRUMTEwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "B6ECD0B2-6A7B-4C5B-8839-4E1B31D03732",
+            "id": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68_20240114T110000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-14T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-14T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83d\udcc9 Weekly planning work including any emails to people and scheduling",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:43.980Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2021-09-07T20:32:14.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-14T06:55:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218008418000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZzcGo0ZWEyOG9vNGFiYTE4aDFqNGI5azY4cGoyYmExNjkzNDJiOW04Y29qOGRwbzcwcGsyZzloNmdfMjAyNDAxMTRUMTExNTAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "7329BF0E-ADC2-4231-A2FA-6C147883AA14",
+            "id": "_6spj4ea28oo4aba18h1j4b9k68pj2ba169342b9m8coj8dpo70pk2g9h6g_20240114T111500Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-14T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6spj4ea28oo4aba18h1j4b9k68pj2ba169342b9m8coj8dpo70pk2g9h6g",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-14T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83e\uddee See how planned hours v done hours are tracking",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:44.209Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-10-03T01:16:45.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-14T10:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218009120000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzhvcjQ0ZGEzNzBxNDRiOWw2MHA0YWI5azZvcjMyYmEyODhyajBiOWs2a29qZ2gxcDg5MGoyYzI1NjBfMjAyNDAxMTRUMTQzMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "F6B5C84B-502E-4661-BB70-4518D9BA10E0",
+            "id": "_8or44da370q44b9l60p4ab9k6or32ba288rj0b9k6kojgh1p890j2c2560_20240114T143000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-14T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_8or44da370q44b9l60p4ab9k6or32ba288rj0b9k6kojgh1p890j2c2560",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-14T09:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "cash out and fuel",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:44.560Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": "Tim Vickey",
+                    "email": "tim@nextchapters.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "needsAction",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-11-21T14:53:19.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-15T11:30:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402477233860000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzhvc2o0YzFwNnNxa2NiOW04OTFqOGI5azZvczQ0YmExNzEzM2liOWk3NHNqMGNwbjZsMzMwZHBvOGNfMjAyNDAxMTVUMTYwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "F920975F-6BC4-468B-A8F9-2990375F078C",
+            "id": "_8osj4c1p6sqkcb9m891j8b9k6os44ba17133ib9i74sj0cpn6l330dpo8c_20240115T160000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-15T11:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_8osj4c1p6sqkcb9m891j8b9k6os44ba17133ib9i74sj0cpn6l330dpo8c",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-15T11:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Tim and Al Standing Meeting",
+            "transparency": null,
+            "updated": "2023-11-29T06:16:56.930Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-15T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTVUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240115T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-15T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-15T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-11-28T19:13:40.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-16T08:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402344425102000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzY0cjMyZDlvNzBwamFiOWs2OTIzOGI5azZ0MGthYmEyNmNvajZiOWc2NHFqYWRhNThrcGtjZHE1ODRfMjAyNDAxMTZUMTIwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "16158835-42D4-47AE-B313-01555EE3F7EA",
+            "id": "_64r32d9o70pjab9k69238b9k6t0kaba26coj6b9g64qjada58kpkcdq584_20240116T120000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-16T07:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_64r32d9o70pjab9k69238b9k6t0kaba26coj6b9g64qjada58kpkcdq584",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 2,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-16T07:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83d\ude9b Trash",
+            "transparency": "transparent",
+            "updated": "2023-11-28T11:50:12.551Z",
+            "visibility": "public",
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-16T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTZUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240116T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-16T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-16T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-17T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTdUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240117T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-17T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-17T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-18T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMThUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240118T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-18T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-18T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-12-04T22:18:00.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-19T13:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3408781659782000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZjc202cGI0NjhzNjZvaGc2NWdqY2RiMjcwbzNhZGhvY2dxM2NjMzM2MHJtOG85ajZwZ202YzFrNm9xamFwaHBfMjAyNDAxMTlUMTcwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "39ced28cb01a65b80568d460c07da36ac04655f9",
+            "id": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp_20240119T170000Z",
+            "kind": "calendar#event",
+            "location": "557 Turners Falls Rd Montague Mass",
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-19T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6csm6pb468s66ohg65gjcdb270o3adhocgq3cc3360rm8o9j6pgm6c1k6oqjaphp",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 4,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-19T12:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "Lunch and Walk",
+            "transparency": null,
+            "updated": "2024-01-04T17:53:49.891Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2022-07-15T19:47:47.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-20T15:30:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3405548657024000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzhnczNpZ3BwNmwxajJiOW83NTI0NmI5azhjcmo2YmEyNzBxazRiYTQ2a3FqNmg5bzhncTMyZ3EzNmNfMjAyNDAxMjBUMTkzMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "D89C95C1-89DC-4C73-B85B-D553E8D41CC3",
+            "id": "_8gs3igpp6l1j2b9o75246b9k8crj6ba270qk4ba46kqj6h9o8gq32gq36c_20240120T193000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-20T14:30:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_8gs3igpp6l1j2b9o75246b9k8crj6ba270qk4ba46kqj6h9o8gq32gq36c",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-20T14:30:00-05:00",
+                "timeZone": "America\/New_York"
+            },
+            "status": "confirmed",
+            "summary": "Leslie here to clean - prep rooms",
+            "transparency": null,
+            "updated": "2023-12-17T00:52:08.512Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": [
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "alfrednutile@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": true,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": true
+                },
+                {
+                    "additionalGuests": null,
+                    "comment": null,
+                    "displayName": null,
+                    "email": "emma.quigley@gmail.com",
+                    "id": null,
+                    "optional": null,
+                    "organizer": null,
+                    "resource": null,
+                    "responseStatus": "accepted",
+                    "self": null
+                }
+            ],
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2023-11-27T12:25:48.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Work on budget and planning",
+            "end": {
+                "date": "2024-01-22",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3407392679738000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZzcW02ZDFwNjFpbThjMWo2MWozMnBqMjZzb200ZTFqY2RobTRkYjQ2Y29qZ2M5bzY0cTM2Y3BpY3BpamdkcG9fMjAyNDAxMjEgYWxmcmVkbnV0aWxlQG0",
+            "iCalUID": "75c490ed030f1fb71b83ccb5d3181814332fe878",
+            "id": "_6sqm6d1p61im8c1j61j32pj26som4e1jcdhm4db46cojgc9o64q36cpicpijgdpo_20240121",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": "2024-01-21",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6sqm6d1p61im8c1j61j32pj26som4e1jcdhm4db46cojgc9o64q36cpicpijgdpo",
+            "reminders": {
+                "overrides": null,
+                "useDefault": false
+            },
+            "sequence": 5,
+            "source": null,
+            "start": {
+                "date": "2024-01-21",
+                "dateTime": null,
+                "timeZone": null
+            },
+            "status": "confirmed",
+            "summary": "Budget and planner with Emma",
+            "transparency": null,
+            "updated": "2023-12-27T16:58:59.869Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2021-09-19T14:17:28.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": "Unearth week updates and cal updates<br \/>Look at my calendar<br \/>Work stuff",
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-21T08:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218007960000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=Xzg4cjRhZ3E0NjExMzRiOW04NHJrNGI5azhjcWs0YjlvNzBwamliOWs4a29rNGNwaDhnbzM2ZHBqNjhfMjAyNDAxMjFUMTEwMDAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "B6ECD0B2-6A7B-4C5B-8839-4E1B31D03732",
+            "id": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68_20240121T110000Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-21T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_88r4agq461134b9m84rk4b9k8cqk4b9o70pjib9k8kok4cph8go36dpj68",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 1,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-21T06:00:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83d\udcc9 Weekly planning work including any emails to people and scheduling",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:43.980Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    },
+    {
+        "googleEvent": {
+            "anyoneCanAddSelf": null,
+            "attachments": null,
+            "attendees": null,
+            "attendeesOmitted": null,
+            "colorId": null,
+            "conferenceData": null,
+            "created": "2021-09-07T20:32:14.000Z",
+            "creator": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "description": null,
+            "end": {
+                "date": null,
+                "dateTime": "2024-01-21T06:55:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "endTimeUnspecified": null,
+            "etag": "\"3402218008418000\"",
+            "eventType": "default",
+            "extendedProperties": null,
+            "focusTimeProperties": null,
+            "gadget": null,
+            "guestsCanInviteOthers": null,
+            "guestsCanModify": null,
+            "guestsCanSeeOtherGuests": null,
+            "hangoutLink": null,
+            "htmlLink": "https:\/\/www.google.com\/calendar\/event?eid=XzZzcGo0ZWEyOG9vNGFiYTE4aDFqNGI5azY4cGoyYmExNjkzNDJiOW04Y29qOGRwbzcwcGsyZzloNmdfMjAyNDAxMjFUMTExNTAwWiBhbGZyZWRudXRpbGVAbQ",
+            "iCalUID": "7329BF0E-ADC2-4231-A2FA-6C147883AA14",
+            "id": "_6spj4ea28oo4aba18h1j4b9k68pj2ba169342b9m8coj8dpo70pk2g9h6g_20240121T111500Z",
+            "kind": "calendar#event",
+            "location": null,
+            "locked": null,
+            "organizer": {
+                "displayName": null,
+                "email": "alfrednutile@gmail.com",
+                "id": null,
+                "self": true
+            },
+            "originalStartTime": {
+                "date": null,
+                "dateTime": "2024-01-21T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "outOfOfficeProperties": null,
+            "privateCopy": null,
+            "recurrence": null,
+            "recurringEventId": "_6spj4ea28oo4aba18h1j4b9k68pj2ba169342b9m8coj8dpo70pk2g9h6g",
+            "reminders": {
+                "overrides": null,
+                "useDefault": true
+            },
+            "sequence": 0,
+            "source": null,
+            "start": {
+                "date": null,
+                "dateTime": "2024-01-21T06:15:00-05:00",
+                "timeZone": "America\/Los_Angeles"
+            },
+            "status": "confirmed",
+            "summary": "\ud83e\uddee See how planned hours v done hours are tracking",
+            "transparency": null,
+            "updated": "2023-11-27T18:16:44.209Z",
+            "visibility": null,
+            "workingLocationProperties": null
+        }
+    }
+]

@@ -2,6 +2,8 @@
 
 return [
 
+    'mock' => env('GOOGLE_CALENDAR_MOCK', false),
+
     'default_auth_profile' => env('GOOGLE_CALENDAR_AUTH_PROFILE', 'service_account'),
 
     'auth_profiles' => [
@@ -23,7 +25,7 @@ return [
             /*
              * Path to the json file containing the oauth2 credentials.
              */
-            'credentials_json' => storage_path('app/google-calendar/oauth-credentials.json'),
+            'credentials_json' => storage_path('app/google-calendar/credentials.json'),
 
             /*
              * Path to the json file containing the oauth2 token.
